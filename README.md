@@ -1,1 +1,1 @@
-# tdd-semin-rio
+# tdd-seminario
